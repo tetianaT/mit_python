@@ -1,5 +1,5 @@
 #ProblemSet0
-#by tetiana Turchyn
+#by Tetiana Turchyn
 
 """
 Ask the user to enter two numbers: x and y.
