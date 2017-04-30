@@ -2,4 +2,5 @@
 
 This is a python MIT project.
 
-ps0.py - solution for the ProblemSet0
+ps0.py - solution to the ProblemSet0
+ps1.py - solution to the ProblemSet1
